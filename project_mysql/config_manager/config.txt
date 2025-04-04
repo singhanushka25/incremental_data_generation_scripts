@@ -1,0 +1,5 @@
+server=mysqlincremental1.cbodhxzef8ew.ap-southeast-1.rds.amazonaws.com
+user=admin
+password=rootROOT
+database=test
+csv_path=/Users/anushkasingh/Desktop/incremental_datageneration_scripts/project_mysql/config_manager/mysql_1.csv

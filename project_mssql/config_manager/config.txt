@@ -1,0 +1,6 @@
+server=mssql-test-incr.cbodhxzef8ew.ap-southeast-1.rds.amazonaws.com
+user=postgres
+password=rootROOT
+database=mssql-test-incr
+csv_path=/home/ubuntu/project_mssql/config_manager/mssql.csv
+
