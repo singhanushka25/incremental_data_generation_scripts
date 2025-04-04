@@ -1,0 +1,5 @@
+server=postgresincremental1.cbodhxzef8ew.ap-southeast-1.rds.amazonaws.com
+user=postgres
+password=rootROOT
+database=postgres
+csv_path=/Users/anushkasingh/Desktop/incremental_datageneration_scripts/project_pgsql/config_manager/postgres.csv
